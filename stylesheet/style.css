@@ -1,0 +1,69 @@
+/* .carousel-style {
+  background: url('../img/slider.jpg') center / cover no-repeat;
+  height: 350px;
+} */
+
+.nav-row-style {
+  height: 100px;
+  border: 2px solid black;
+}
+
+
+.red-course-div {
+  /* height: 300px; */
+  background-color: red;
+}
+
+.red-course-div p {
+  padding-top: 3%;
+  text-align: center;
+  color: white;
+}
+
+.mid-title-up {
+  /* height: 100px; */
+  /* background-color: yellow; */
+}
+.mid-img-up {
+  /* height: 200px; */
+  /* background-color: orange; */
+}
+.footer-grey {
+  height: 250px;
+  background-color: grey;
+}
+.footer-black {
+  height: 70px;
+  background-color: black;
+}
+
+.red-course-div div {
+  height: 300px;
+  border: 2px solid white;
+
+}
+.mid-img-up div {
+  height: 195px;
+  /* border: 2px solid white; */
+}
+.footer-grey div {
+  height: 220px;
+  border: 2px solid white;
+}
+.carousel-image img{
+  min-width: 100%;
+  max-height: 550px;
+}
+.circle .my-glyf-glass {
+  color: white;
+  font-size: 35px;
+  padding: 20%;
+}
+.circle {
+  margin-top: 5%;
+  margin-left: 40%;
+  border:1px solid white;
+  height: 60px !important;
+  width: 60px;
+  border-radius: 50%;
+}
